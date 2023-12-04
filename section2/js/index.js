@@ -16,6 +16,11 @@ let data = [
     name: "Hair & makeup",
     desc: "The Design is the imagination, creativity and inspiration that makes your event unique. We work closely with you to sleuth out your style and then use that insight to develop every aesthetic component of your event from stationery and lighting to flowers and furniture.",
   },
+  {
+    id: 4,
+    name: "Lighting & Sound",
+    desc: "The Design is the imagination, creativity and inspiration that makes your event unique. We work closely with you to sleuth out your style and then use that insight to develop every aesthetic component of your event from stationery and lighting to flowers and furniture.",
+  },
 ];
 let inputData = "";
 for (let i = 0; i < data.length; i++) {
